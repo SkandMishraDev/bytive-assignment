@@ -164,6 +164,3 @@ Ensure the following software is installed on your system:
     "message": "Error message"
   }
   ```
-
-### Postman Collection
-fileName : Todo.postman_collection.json
